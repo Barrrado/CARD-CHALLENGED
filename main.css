@@ -46,6 +46,7 @@ h1, h3 , p, .btn{
     color: var(--White-10);
     font-weight: 400;
     cursor:pointer;
+    transition: all ease 0.5s;
 }
 .btn:hover{
     color: var(--Green);
